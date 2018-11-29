@@ -1,5 +1,5 @@
 header, footer {
-	background-color: #212121;
+	background-color: #1A1A59;
 	border: solid 1px black;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 a {
-	background-color: lightgray;
+	background-color: #8080B3;
     color: black;
     text-align: center; 
     padding: 1px 3px;
